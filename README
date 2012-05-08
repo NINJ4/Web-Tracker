@@ -1,0 +1,11 @@
+ * Player/Tracker Web Interface and Lookups
+ * Author: NINJ4
+ * More Info:	http://dev.bukkit.org/server-mods/player-tracker/
+ 					AND/OR
+ 				https://github.com/NINJ4/Player-Tracker	
+ 				
+ * Description: Visualize and perform lookups on your mySQL Player/Tracker database from the web.
+ * License for this tracker.php & tracker.js: Public Domain
+ *
+ * Configuration:
+ *		Fill out up to the words "END config" with the appropriate data (comments provided) in tracker.php.  No other configuration required.
