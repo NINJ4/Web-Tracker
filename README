@@ -9,3 +9,6 @@
  *
  * Configuration:
  *		Fill out up to the words "END config" with the appropriate data (comments provided) in tracker.php.  No other configuration required.
+ *
+ * Installation:
+ * 		Simply drop all these three files and the "lib" folder into any directory on a http server.  Then visit tracker.php.
