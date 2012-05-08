@@ -1,0 +1,91 @@
+html {
+	font-size: 100%;
+	/* Always show a scrollbar for short pages - stops the jump when the scrollbar appears. non-IE browsers */
+	height: 101%;
+}
+
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	color: #828282;
+	background-color: #EEEEEE;
+	font-size: 10px;
+	margin: 0;
+	padding: 12px 0;
+}
+
+.panel {
+	margin-bottom: 4px;
+	padding: 0 10px;
+	background-color: #f3f3f3;
+	color: #3f3f3f;
+}
+.button {	
+	border: 1px solid #666666;
+	width: auto !important;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	background: #FAFAFA none repeat-x top;
+	text-decoration: none;
+	color: #000000;
+	padding: 2px 2px;
+	line-height: 250%;
+	vertical-align: text-bottom;
+	background-position: 0 1px;
+	font-size: 1em;
+}
+.button:hover {
+	border-color: #BC2A4D;
+	color: #BC2A4D;
+}
+dl.codebox {
+	padding: 3px;
+	background-color: #FFFFFF;
+	border: 1px solid #d8d8d8;
+	font-size: 1em;	
+	border-color: #C9D2D8;
+	width: 60%;
+}
+
+dl.codebox dt {
+	text-transform: uppercase;
+	border-bottom: 1px solid #CCCCCC;
+	margin-bottom: 3px;
+	font-size: 0.8em;
+	font-weight: bold;
+	display: block;
+}
+dl.codebox code {
+	overflow: auto;
+	display: block;
+	height: auto;
+	max-height: 400px;
+	white-space: normal;
+	padding-top: 5px;
+	font: 1.1em Monaco, "Andale Mono","Courier New", Courier, mono;
+	line-height: 1.3em;
+	margin: 2px 0;
+}
+dl.codebox dt {
+	border-bottom-color:  #CCCCCC;
+	text-align:left;
+}
+
+dl.codebox code {
+	color: #2E8B57;
+	text-align:left;
+}
+span.assoc_acct {
+	padding-left:20px;
+}
+a.GUL_gen {
+	font-weight:bold;
+}
+#playerweb {
+	background-color: #ABABAB;
+    position:relative;
+    width:90%;
+    height:400px;
+    margin:auto;
+    overflow:hidden;
+}
