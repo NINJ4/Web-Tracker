@@ -226,6 +226,7 @@ if ( $_POST['target'] != null ) {
 		if ( $i == 0 ) {
 			$output['lastip'] = $ip;
 			$spent['name'][] = $row['accountname'];
+			$spent['name'][] = $target;
 			$i++;
 			
 		}
